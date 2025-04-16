@@ -8,16 +8,22 @@
 - <a href="https://docs.google.com/forms/d/1E0bloLefZFpiSEvEdHI3uD2GN8wmNXSSfYEZmIWqpkk/viewform?edit_requested=true" target="_blank">PGF and RRN form</a>
 - <a href="https://docs.google.com/forms/d/10Er82emAaXq2HqJsEQLy-V_XPsxMwi8EpU-kS8x6GNU/viewform?edit_requested=true" target="_blank">UAE Auto renewal form</a>📊
 
-### SOP Links 🎤
+### SOP Links 
 
-- <a href="https://docs.google.com/spreadsheets/d/13xfl3hBuNHlpPOMpA37dq6pNN4S53iLV/edit?gid=878029794#gid=878029794" target="_blank">KM SOP link</a> 🎶
+- <a href="https://docs.google.com/spreadsheets/d/13xfl3hBuNHlpPOMpA37dq6pNN4S53iLV/edit?gid=878029794#gid=878029794" target="_blank">KM SOP link</a> 🏚️
 
+### Email Can responses Links 
 
+- <a href="https://docs.google.com/spreadsheets/d/1TrcmZq0dt9R-NcLmQM7vEFoD0idvk75wCugRZ81gFDM/edit?gid=1074205900#gid=1074205900" target="_blank">KM SOP link</a> 📖
+
+### Chat Can responses Links 
+
+- <a href="https://docs.google.com/document/d/10yAXCcV50nslAgqtd6Crz6LtoVLPAkV72Kqm57L6GMY/edit?tab=t.0#heading=h.gtswuw9vx1n" target="_blank">KM SOP link</a> 📖
 
 
 ## <span style="color: Green;">Important Web Links</span> 🌍
 
-- <a href="https://external.zomans.com/support/agent" target="_blank">Chat App</a> 💬 - <a href="https://insider.in" target="_blank">Insider</a> 🔍 - <a href="https://admin.insider.in" target="_blank">Insider Login</a> 🔑 - <a href="https://www.zomato.com/live" target="_blank">Zomaland/Zomato Live</a> 🎉   
+- <a href="https://external.zomans.com/support/agent" target="_blank">Chat App</a> 💬 
 - <a href="https://www.zomato.com/" target="_blank">Zomato</a> 🍴 - <a href="https://external.zomans.com/" target="_blank">External Zomans</a> 🔗 - <a href="https://external-access.zomans.com/#/apps" target="_blank">Lifeline Profile</a> 🏥 - <a href="https://web.whatsapp.com/" target="_blank">WhatsApp Web</a> 💬
 
 ## Useful Tools
