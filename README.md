@@ -12,18 +12,18 @@
 
 - <a href="https://docs.google.com/spreadsheets/d/13xfl3hBuNHlpPOMpA37dq6pNN4S53iLV/edit?gid=878029794#gid=878029794" target="_blank">KM SOP link</a> 🏚️
 
-### Email Can responses Links 
+- <a href="https://docs.google.com/spreadsheets/d/1up0jPxwcUVpQoC0-QVn6KQbMSfjjPKrLT0BzbciNFwU/edit?gid=0#gid=0" target="_blank">Taggings</a> 🪢
 
-- <a href="https://docs.google.com/spreadsheets/d/1TrcmZq0dt9R-NcLmQM7vEFoD0idvk75wCugRZ81gFDM/edit?gid=1074205900#gid=1074205900" target="_blank">KM SOP link</a> 📖
+### Can responses Links 
 
-### Chat Can responses Links 
+- <a href="https://docs.google.com/spreadsheets/d/1TrcmZq0dt9R-NcLmQM7vEFoD0idvk75wCugRZ81gFDM/edit?gid=1074205900#gid=1074205900" target="_blank">Email Canned response</a> 📖
 
-- <a href="https://docs.google.com/document/d/10yAXCcV50nslAgqtd6Crz6LtoVLPAkV72Kqm57L6GMY/edit?tab=t.0#heading=h.gtswuw9vx1n" target="_blank">KM SOP link</a> 📖
-
+- <a href="https://docs.google.com/document/d/10yAXCcV50nslAgqtd6Crz6LtoVLPAkV72Kqm57L6GMY/edit?tab=t.0#heading=h.gtswuw9vx1n" target="_blank">Chat Canned response</a> 📖
 
 ## <span style="color: Green;">Important Web Links</span> 🌍
 
-- <a href="https://external.zomans.com/support/agent" target="_blank">Chat App</a> 💬 
+- <a href="https://external.zomans.com/support/agent" target="_blank">Chat App</a> 💬 - <a href="https://external.zomans.com/dining-admin-dashboards/lifeline/" target="_blank">Dining Lifeline</a>
+- <a href="https://external.zomans.com/admin/red/red_user_history_dashboard.php?tab=all_dos_cases" target="_blank">GUHD</a>
 - <a href="https://www.zomato.com/" target="_blank">Zomato</a> 🍴 - <a href="https://external.zomans.com/" target="_blank">External Zomans</a> 🔗 - <a href="https://external-access.zomans.com/#/apps" target="_blank">Lifeline Profile</a> 🏥 - <a href="https://web.whatsapp.com/" target="_blank">WhatsApp Web</a> 💬
 
 ## Useful Tools
