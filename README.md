@@ -14,7 +14,7 @@
 
 - <a href="https://docs.google.com/spreadsheets/d/1up0jPxwcUVpQoC0-QVn6KQbMSfjjPKrLT0BzbciNFwU/edit?gid=0#gid=0" target="_blank">Taggings</a> 🪢
 
-### Can responses Links 
+### Canned responses Links 
 
 - <a href="https://docs.google.com/spreadsheets/d/1TrcmZq0dt9R-NcLmQM7vEFoD0idvk75wCugRZ81gFDM/edit?gid=1074205900#gid=1074205900" target="_blank">Email Canned response</a> 📖
 
