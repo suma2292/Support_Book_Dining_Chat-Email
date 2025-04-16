@@ -3,11 +3,14 @@
 
 ### General Links 🌐
 
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeATlNflyYV0wbq2s7OVMhWgYfofjgbinKzmS8lpY1_HiceA/viewform" target="_blank">Refund form</a> 📊
+- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeATlNflyYV0wbq2s7OVMhWgYfofjgbinKzmS8lpY1_HiceA/viewform" target="_blank">Refund form</a>
+- <a href="https://docs.google.com/forms/d/1WQt0ii6Xg4aqg5Mo6AfXXBm-EcPPqEG8pkYGN35PJQc/viewform?edit_requested=true#responses" target="_blank">Hold form</a>
+- <a href="https://docs.google.com/forms/d/1E0bloLefZFpiSEvEdHI3uD2GN8wmNXSSfYEZmIWqpkk/viewform?edit_requested=true" target="_blank">PGF and RRN form</a>
+- <a href="https://docs.google.com/forms/d/10Er82emAaXq2HqJsEQLy-V_XPsxMwi8EpU-kS8x6GNU/viewform?edit_requested=true" target="_blank">UAE Auto renewal form</a>📊
 
-### Specific Event Links 🎤
+### SOP Links 🎤
 
-- <a href="https://docs.google.com/spreadsheets/d/1VRpi0APPkfQSWJzBhfIyNAqn1e5GEWUTxmp8qhtvSg4/edit?gid=54208201#gid=54208201" target="_blank">Honey Singh Updates</a> 🎶
+- <a href="https://docs.google.com/spreadsheets/d/13xfl3hBuNHlpPOMpA37dq6pNN4S53iLV/edit?gid=878029794#gid=878029794" target="_blank">KM SOP link</a> 🎶
 
 
 
